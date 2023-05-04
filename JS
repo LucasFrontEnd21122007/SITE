@@ -1,0 +1,13 @@
+// app.js
+
+function App() {
+    return (
+      <div className="App">
+        <h1>Minha Página</h1>
+        <p>Bem-vindo à minha página!</p>
+      </div>
+    );
+  }
+  
+  ReactDOM.render(<App />, document.getElementById('root'));
+  
