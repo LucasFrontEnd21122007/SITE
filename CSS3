@@ -61,5 +61,5 @@ body {
   }
   
   section.destaque h2 {
-    font
+    font-size: 200px;
   } 
